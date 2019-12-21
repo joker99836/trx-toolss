@@ -8,9 +8,9 @@ YouTube Channel: https://www.youtube.com/user/Techgeniushindi
 Instagram: https://www.Instagram.com/Karan.Rockx.98/
 
 # Installation
-git clone 
-cd toolss
-pkg install wget
-sh toolss.sh
+1.git clone 
+2.cd toolss
+3.pkg install wget
+4.sh toolss.sh
 
 🔥🔥🤡🔥🔥
